@@ -1,0 +1,15 @@
+
+
+******************Ucus Ekibi**********************8
+
+Projede:Hostes,Pilot,Temizlikci,kisi(pojo) ,islem ve runner classlari olmak uzere 5 klastan olusmaktadir,
+
+String secilenkisi;
+
+*** 1 Ana menu(islem yapilmasi istenen kisiler secilir
+*** 2 islem menusun olmalidir (ekle,listeleme,ara ve silme methodlari olusturunuz)
+
+
+Arraylist kullaniniz.
+
+
